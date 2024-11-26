@@ -4,42 +4,42 @@ const data = [
         title:'SATORU',
         title2:'GOJO',
         description:'Satoru Gojo, a powerhouse in Jujutsu Kaisen, is a Special Grade Sorcerer with unmatched abilities, including the Limitless technique and Six Eyes. Known for his playful yet confident demeanor, he is a mentor at Tokyo Jujutsu High and a key protector of the jujutsu world.',
-        image: '/images/slider/slider-img1.jpg'
+        image: 'images/slider/slider-img1.jpg'
     },
     {
         place:'Naruto',
         title:'KAKASHI',
         title2:'HATAKE',
         description:'Highly skilled Shinobi and former leader of Team 7. Known for his Sharingan and vast jutsu knowledge, He balances a laid-back demeanor with deep wisdom and loyalty. As both a mentor and a warrior, Kakashi is a pivotal figure in shaping Naruto\'s journey.',
-        image: '/images/slider/slider-img2.jpg'
+        image: 'images/slider/slider-img2.jpg'
     },
     {
         place:'Naruto',
         title:'OBITO',
         title2:'UCHIHA',
         description:'Once a kind-hearted shinobi, became a major antagonist in Naruto after tragedy and manipulation. Wielding the Sharingan, he sought the Infinite Tsukuyomi but ultimately redeemed himself, sacrificing his life to protect his friends.',
-        image: '/images/slider/slider-img3.jpg'
+        image: 'images/slider/slider-img3.jpg'
     },
     {
         place:'Death Note',
         title:'LIGHT',
         title2:'YAGAMI',
         description:'After discovering the Death Note, he uses it to impose his own twisted sense of justice, aiming to create a crime-free world as "Kira." His intelligence and charisma mask a descent into obsession and power.',
-        image:'/images/slider/slider-img4.jpg'
+        image:'images/slider/slider-img4.jpg'
     },
     {
         place:'Death Note',
         title:'KIRA',
         title2:'',
         description:' Kira is the alias used by Light Yagami in Death Note, as he embarks on a mission to rid the world of criminals. Using the Death Note, Kira kills anyone whose name he writes, believing he can create a utopia. His actions spark a global manhunt, making him both a hero and a villain in the eyes of the public.',
-        image:'/images/slider/slider-img5.jpg'
+        image:'images/slider/slider-img5.jpg'
     },
     {
         place:'One Piece',
         title:'Monkey',
         title2:'D. Luffy',
         description:'Monkey D. Luffy, the captain of the Straw Hat Pirates in One Piece, possesses rubber-like powers from the Gum-Gum Fruit. Driven by his dream to become Pirate King, his courage and loyalty to his crew lead him through countless adventures.',
-        image:'/images/slider/slider-img6.jpg'
+        image:'images/slider/slider-img6.jpg'
     },
 ]
 
